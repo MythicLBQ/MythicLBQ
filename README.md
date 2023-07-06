@@ -1,7 +1,17 @@
 <h2 align="center">
   <a href="https://mythicxgn.com">MythicXGN</a>
-  <br>
-  <br>
-  <a href="https://discord.com/users/847363776961314817"><img align="center" src="https://lanyard.cnrad.dev/api/847363776961314817?bg=23283d&borderRadius=8px"/> 
-</a>
+                      <picture>
+                      <source
+                        srcSet="https://github-readme-stats.vercel.app/api?username=MythicLBQ&rank_icon=github&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"
+                        media="(prefers-color-scheme: dark)"
+                      />
+                      <img src="https://github-readme-stats.vercel.app/api?username=MythicLBQ&show_icons=true" className="stats" height={250}></img>
+                    </picture>
+                    <picture>
+                      <source 
+                        srcSet="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicLBQ&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF"
+                        media="(prefers-color-scheme: dark)"
+                      />
+                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicLBQ&layout=compact" className="stats" height={250}></img>
+                    </picture>
 </h2>
